@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About Me
 
 <div align="justify">
-  Hi, my name is Pavel and I am a self-taught frontend developer with a deep love for JavaScript and a passion for learning new things. I have always had a natural curiosity and desire to learn, and I have dedicated myself to mastering the skills and knowledge necessary to succeed in this field. As a self-taught developer, I have had to rely on my own initiative and resourcefulness to learn and grow, and I believe that this has made me a competent and flexible individual. I am eager to continue exploring new technologies and finding creative solutions to real-world problems.
+  Hi, my name is Pavel and I'm a web development enthusiast. My passion for this field drives me to constantly seek out new ways to learn and improve my skills. I'm currently working my way through The Odin Project curriculum and I'm loving it. The course material is well-organized and easy to follow, and the community aspect of The Odin Project is a huge plus. I'm excited to continue my journey and see where it takes me.
 </div>
 
 # 🛠️ Technologies & Tools
@@ -62,13 +62,22 @@
       />
       <br /><strong>Npm</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"
+        width="48"
+        height="48"
+        alt="ESLint"
+      />
+      <br /><strong>ESLint</strong>
+    </td>
   </tr>
 </table>
           
 # 📊 Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=iPavelGeorgiev&show_icons=true&theme=react&hide_border=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=iPavelGeorgiev&show_icons=true&theme=react&hide_border=true&count_private=true&hide=stars"
   alt="GitHub stats"
 />
 <img
@@ -80,6 +89,6 @@
 
 I am always interested in meeting new people and expanding my professional network. If you would like to connect and perhaps discuss potential opportunities for collaboration or exchange ideas and perspectives, please do not hesitate to reach out to me. I am open to making new connections and exploring potential avenues for professional development.
 
-<p><a href="https://www.linkedin.com/in/ipavelgeorgiev/"><img align="center" src="./assets/linkedin-icon.png" alt="LinkedIn" height="auto" width="30"/></a>&nbsp;
-<a href="https://discord.com/users/621026020895621123"><img align="center" src="./assets/discord-icon.png" alt="Discord" height="auto" width="30"/></a>&nbsp;
-<a href="https://www.codewars.com/users/iPavelGeorgiev"><img align="center" src="./assets/code-wars-icon.png" alt="Code Wars" height="auto" width="30"/></a>
+<p><a href="https://www.linkedin.com/in/ipavelgeorgiev/"><img align="center" src="https://i.ibb.co/6Jw1g19/linkedin-icon.png" alt="LinkedIn" height="auto" width="30"/></a>&nbsp;
+<a href="https://discord.com/users/621026020895621123"><img align="center" src="https://i.ibb.co/80bsWC9/discord-icon.png" alt="Discord" height="auto" width="30"/></a>&nbsp;
+<a href="https://www.codewars.com/users/iPavelGeorgiev"><img align="center" src="https://i.ibb.co/zbF2tZG/code-wars-icon.png" alt="Code Wars" height="auto" width="30"/></a></p>
