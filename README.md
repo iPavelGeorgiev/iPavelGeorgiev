@@ -1,3 +1,5 @@
+<a href="https://github.com/pavgeorgiev/pavgeorgiev" style="display: block; width: 100%;"><img src="https://i.ibb.co/wKnbfJG/github-banner.png" alt="GitHub banner" style="width: 100%;"></a>
+
 # 👨🏻‍💻 About Me
 
 <div align="justify">
