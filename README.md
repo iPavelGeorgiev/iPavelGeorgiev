@@ -1,4 +1,4 @@
-<img src="github-banner2.png" alt="GitHub banner" style="width: 100%;">
+<img src="github-banner3.png" alt="GitHub banner" style="width: 100%;">
 
 # 👨🏻‍💻 About Me
 
