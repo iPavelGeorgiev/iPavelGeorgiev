@@ -1,5 +1,3 @@
-<img src="github-banner3.png" alt="GitHub banner" style="width: 100%;">
-
 # 👨🏻‍💻 About Me
 
 <div align="justify">
