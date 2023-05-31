@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/rkLjLSy/testttt.png" alt="GitHub banner" style="width: 100%;">
+<img src="https://i.ibb.co/sjDfDG3/testttt.png" alt="GitHub banner" style="width: 100%;">
 
 # 👨🏻‍💻 About Me
 
